@@ -12,14 +12,14 @@ Check out my latest projects, demos, and work-in-progress ideas showcased in an 
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks/Libraries:** Tailwind CSS, React.js (learning), Node.js (basics)
 - **Tools:** Git, GitHub, VS Code, Google Apps Script
-- **Databases:** Google Sheets (as lightweight DB), Firebase (exploring)
+- **Databases:** Mongodb
 
 ## 🚀 Featured Projects
 
 | Project | Description | Live | Code |
 |--------|-------------|------|------|
 | **Dev Showcase** | A responsive front-end portfolio to showcase projects dynamically | [Live](https://ranjan-builds.github.io/dev-showcase/) | [Code](https://github.com/ranjan-builds/dev-showcase) |
-| **Bank Finder** | Search banks by pincode or name with data from an API | [Live](https://ranjan-builds.github.io/bank-search/) | [Code](https://github.com/ranjan-builds/bank-search) |
+| **Addition Game** | Search banks by pincode or name with data from an API | [Live](https://ranjan-builds.github.io/addition-game/) | [Code](https://github.com/ranjan-builds/addition-game) |
 
 > More projects coming soon...
 
@@ -27,7 +27,7 @@ Check out my latest projects, demos, and work-in-progress ideas showcased in an 
 
 - LinkedIn: [linkedin.com/in/ranjan-kashyap](https://www.linkedin.com/in/ranjan-kashyap)
 - GitHub: [@ranjan-builds](https://github.com/ranjan-builds)
-- Email: ranjankashyap.js@gmail.com
+- Email: ranjankashyap6475@gmail.com
 
 ## 📈 GitHub Stats
 
