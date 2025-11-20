@@ -21,9 +21,10 @@ Utility application for searching bank details using external APIs.
 
 ## 📫 Let's Connect
 
+- **Portfolio:** [ranjan-builds.github.io/my-portfolio/](https://ranjan-builds.github.io/my-portfolio/)
 - **Email:** ranjankashyap6475@gmail.com
 - **LinkedIn:** [Ranjan Kashyap](https://www.linkedin.com/in/ranjan-kashyap)
-- **Portfolio:** [View My Work](http://localhost:5173/)
+- **GitHub:** [@ranjan-builds](https://github.com/ranjan-builds)
 
 ## 📊 GitHub Stats
 
