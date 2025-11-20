@@ -1,38 +1,34 @@
 # 👋 Hi, I'm Ranjan Kashyap
 
-Welcome to my GitHub! I'm a passionate web developer focused on creating fast, responsive, and accessible web experiences. I love building real-world projects, experimenting with new technologies, and sharing my work with the community.
+A passionate web developer from India focused on building fast, responsive, and user-friendly web applications. I enjoy turning ideas into functional digital experiences.
 
-## 🌐 Portfolio
-🔗 [View My Portfolio](https://ranjan-builds.github.io/dev-showcase/)
+## 🚀 What I'm Working With
 
-Check out my latest projects, demos, and work-in-progress ideas showcased in an interactive format.
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Tailwind CSS, React.js (learning), Node.js (basics)
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, MongoDB
 - **Tools:** Git, GitHub, VS Code, Google Apps Script
-- **Databases:** Mongodb
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-| Project | Description | Live | Code |
-|--------|-------------|------|------|
-| **Dev Showcase** | A responsive front-end portfolio to showcase projects dynamically | [Live](https://ranjan-builds.github.io/dev-showcase/) | [Code](https://github.com/ranjan-builds/dev-showcase) |
-| **Addition Game** | Search banks by pincode or name with data from an API | [Live](https://ranjan-builds.github.io/addition-game/) | [Code](https://github.com/ranjan-builds/addition-game) |
+### [Dev Showcase](https://ranjan-builds.github.io/dev-showcase/)
+A responsive portfolio template to showcase projects dynamically with clean design.
 
-> More projects coming soon...
+### [Addition Game](https://ranjan-builds.github.io/addition-game/)
+An interactive math game built with vanilla JavaScript.
 
-## 📫 Contact Me
+### [Bank Search App](https://github.com/ranjan-builds)
+Utility application for searching bank details using external APIs.
 
-- LinkedIn: [linkedin.com/in/ranjan-kashyap](https://www.linkedin.com/in/ranjan-kashyap)
-- GitHub: [@ranjan-builds](https://github.com/ranjan-builds)
-- Email: ranjankashyap6475@gmail.com
+## 📫 Let's Connect
 
-## 📈 GitHub Stats
+- **Email:** ranjankashyap6475@gmail.com
+- **LinkedIn:** [Ranjan Kashyap](https://www.linkedin.com/in/ranjan-kashyap)
+- **Portfolio:** [View My Work](http://localhost:5173/)
 
-![Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjan-builds&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjan-builds&show_icons=true&theme=radical)
 
 ---
 
-Thanks for stopping by! ⭐ Feel free to explore and contribute to any of the projects here.
+⭐ Feel free to explore my repositories and don't hesitate to reach out!
