@@ -10,10 +10,10 @@ A passionate web developer from India focused on building fast, responsive, and 
 
 ## 💻 Featured Projects
 
-### [Dev Showcase](https://ranjan-builds.github.io/dev-showcase/)
+### [opengraph-gen](https://ranjan-builds.github.io/opengraph-gen/)
 A responsive portfolio template to showcase projects dynamically with clean design.
 
-### [Addition Game](https://ranjan-builds.github.io/addition-game/)
+### [RanjanFlix](https://ranjan-builds.github.io/RanjanFlix/)
 An interactive math game built with vanilla JavaScript.
 
 ### [Bank Search App](https://github.com/ranjan-builds)
